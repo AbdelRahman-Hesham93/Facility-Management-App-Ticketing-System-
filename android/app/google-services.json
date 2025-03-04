@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187834258071",
+    "project_id": "samcrete-service-desk-project",
+    "storage_bucket": "samcrete-service-desk-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187834258071:android:6b6f3c698985fe3fb98fd2",
+        "android_client_info": {
+          "package_name": "com.samcrete.sam_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187834258071-tucd9tgbgp48q5nk5quhgm4koj33k3nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samcrete.sam_app",
+            "certificate_hash": "308a6fda03d94c188ecb624a6874d573b3cea535"
+          }
+        },
+        {
+          "client_id": "187834258071-l2qhcn9pkhra4n0nta6dm3n3to1ksmn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20XLAmTNJYy0IEnKJw7KJbUlgSvvyFag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187834258071-l2qhcn9pkhra4n0nta6dm3n3to1ksmn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
